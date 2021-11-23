@@ -1,2 +1,2 @@
 # campanha-javascript
-## exercício  1 de javascript  
+exercicio 1   
